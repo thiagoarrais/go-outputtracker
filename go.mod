@@ -1,4 +1,4 @@
-module github.com/dewe/go-outputtracker
+module github.com/thiagoarrais/go-outputtracker
 
 go 1.20
 
